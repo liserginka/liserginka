@@ -14,7 +14,7 @@ this experience taught me precision, responsibility, and the importance of relia
 
 ---
 
-## 🛠️ current stack
+## 🛠️ CURRENT STACK
 
 currently building engineering toolkit:
 
